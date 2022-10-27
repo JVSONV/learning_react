@@ -1,0 +1,11 @@
+.title {
+    margin: .5rem 0;
+    display: block;
+    letter-spacing: .01rem;
+    font-weight: 600;
+}
+
+.age {
+    width: 100%;
+    border: 1px solid lightgrey;
+}
